@@ -17,13 +17,13 @@ const About = () => {
 							</h2>
 						</div>
 						<p className="lead">
-							Separated they live in Bookmarksgrove right at the coast of the
-							Semantics, a large language ocean.
+							Based in Edmonton, Alberta, I’m a technology enthusiast who enjoys
+							building things, learning new tools, and solving problems.
 						</p>
-						<p className="mb-5  ">
-							A small river named Duden flows by their place and supplies it
-							with the necessary regelialia. It is a paradisematic country, in
-							which roasted parts of sentences fly into your mouth.
+						<p className="mb-5">
+							When I’m not exploring the latest in tech, you’ll find me with a
+							good book or planning my next trip — I love reading and traveling
+							to discover new ideas, cultures, and perspectives.
 						</p>
 						<p>
 							<a
